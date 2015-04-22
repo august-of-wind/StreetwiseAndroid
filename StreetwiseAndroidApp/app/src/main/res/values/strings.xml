@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Streetwise</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_streetwise_main_page_web_view">StreetwiseMainPageWebView</string>
+    <string name="title_activity_facebook_view">FacebookView</string>
+    <string name="title_activity_twitter_view">TwitterView</string>
+</resources>
