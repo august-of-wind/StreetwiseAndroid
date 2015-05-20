@@ -16,7 +16,7 @@ public class FacebookView extends ActionBarActivity {
         setContentView(R.layout.activity_facebook_view);
         WebView mywebview = (WebView) findViewById(R.id.webView4);
         mywebview.loadUrl("https://www.facebook.com/StreetWiseChicago");
-        WebSettings webSettings = mywebview.getSettings();
+        WebSettings webSettings = mywebview.getSettings()       ;
         webSettings.setJavaScriptEnabled(true);
     }
 
