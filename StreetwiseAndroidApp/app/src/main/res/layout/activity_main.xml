@@ -16,7 +16,8 @@
         android:hint="Vendor ID #"
         android:gravity="center_horizontal"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView4"/>
 
 
     <Button
@@ -27,7 +28,7 @@
         android:onClick="takeInput"
         android:layout_marginTop="89dp"
         android:layout_below="@+id/editText2"
-        android:layout_centerHorizontal="true">
+        android:layout_centerHorizontal="true"/>
 
 
     <ImageButton
